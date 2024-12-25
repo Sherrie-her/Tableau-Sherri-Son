@@ -1,4 +1,4 @@
-# Tableau-Sherri-Son
+# Tableau-chaeri-son
 This repository contains a picture and the link of data visualizations created using Tableau Public. 
 To access interactive versions of these visualizations, please visit the Tableau Public links provided below.
 # Link
